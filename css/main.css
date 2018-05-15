@@ -133,6 +133,11 @@
 #bugburger {
 }
 
+#tacobell_script {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #8F070A;
+}
+
 #bugburgertitle {
     color: #242FDF;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
