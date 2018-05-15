@@ -120,3 +120,17 @@
 }
 
 
+#bug_burger_script {
+    color: #143ED2;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: large;
+}
+#bugburger {
+}
+#bugburgertitle {
+    color: #242FDF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: bold;
+}
