@@ -20,17 +20,20 @@
 	color: #FF0004;
 }
 
+#Shoemo-football {
+    color: #FF0004;
+}
+
 #chahine_tacobell-text {
 }
+
 #chahine_tacobell_text {
 	color: #8A0D0F;
 }
 
-
 #avelar-Holographicphone {
 	color: #FF0004;
 }
-
 
 #dawson-dean-subtitle {
     color: #FF0004;
@@ -119,7 +122,6 @@
 	background-image: linear-gradient(180deg,rgba(143,143,143,1.00) 0%,rgba(146,146,146,1.00) 0%);
 }
 
-
 #bug_burger_script {
     color: #143ED2;
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
@@ -127,8 +129,10 @@
     font-weight: normal;
     font-size: large;
 }
+
 #bugburger {
 }
+
 #bugburgertitle {
     color: #242FDF;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
