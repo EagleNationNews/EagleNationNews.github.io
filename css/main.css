@@ -28,7 +28,10 @@
 
 
 #avelar-Holographicphone {
-	color: #FF0004;
+	color: #E9E9E9;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: normal;
+	text-shadow: 5px 0px 7px #B6484A;
 }
 
 
@@ -118,5 +121,3 @@
 	background-image: -o-linear-gradient(270deg,rgba(143,143,143,1.00) 0%,rgba(146,146,146,1.00) 0%);
 	background-image: linear-gradient(180deg,rgba(143,143,143,1.00) 0%,rgba(146,146,146,1.00) 0%);
 }
-
-
