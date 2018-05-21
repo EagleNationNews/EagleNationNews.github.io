@@ -9065,4 +9065,19 @@ a.text-dark:hover, a.text-dark:focus {
 	color: #1500FF;
 
 }
+
+#conner_sgavideo {
+	border-radius: 0px;
+	margin-top: -1px;
+	padding-top: 7px;
+	border: thick ridge #B6080B;
+}
+#conner_eagle_right {
+	margin-right: 0px;
+	margin-left: 23px;
+}
+#conner_eagle_left {
+	margin-left: 40px;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
