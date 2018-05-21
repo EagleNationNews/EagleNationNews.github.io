@@ -129,8 +129,6 @@
 	background-color: #000000;
 }
   
-
-
 #dubois-orange-title {
 	color: #FF0000;
 	text-shadow: 0px 0px 7px #FAE999;
@@ -182,6 +180,7 @@
     font-weight: bold;
 }
 
+
 #tyson-text {
 }
 #tyson-background {
@@ -201,7 +200,20 @@
 #tsyon-side-fill-left {
 }
 #tyson-text {
-=======
+
+#jonesLackofteacherstitle {
+	color: #FF0004;
+}
+#JonesLOTscript {
+	text-align: left;
+}
+
+#JonesBackground {
+	background-color: #9BCCEC;
+}
+#jonesLackofteacherstitle {
+
+
 #ryan-body_background {
 	background-color: #000000;
 }
