@@ -62,6 +62,11 @@
 	color: #FF0004;
 }
 
+#tyson-background {
+	border-color: #0032FF;
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+
 #bass-brexit-title {
 	text-shadow: 0px 0px;
 	color: #FF0004;
@@ -90,11 +95,7 @@
 	background-color: #000000;
 }
   
-#tyson-red {
-}
 
-#tyson-red {
-}
 
 #dubois-orange-title {
 	color: #FF0000;
