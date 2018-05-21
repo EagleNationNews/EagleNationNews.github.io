@@ -98,17 +98,13 @@
 
 #dubois-orange-title {
 	color: #FF0000;
-	text-shadow: 0px 0px 7px #FAE999;
+	text-shadow: 0px 0px 15px #000000;
 }
   
 #dubois-orange-subtitle {
-	color: #FF0001;
+	color: #FF0000;
 	font-style: normal;
-	text-shadow: 0px 0px;
-}
-  
-#dubois-column-background {
-	background-color: #929292;
+	text-shadow: 0px 2px #000000;
 }
   
 #dubois-column-title-background {
@@ -116,13 +112,6 @@
 	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,238,238,1.00) 0%,rgba(255,220,220,1.00) 0%,rgba(255,212,212,1.00) 1.56%,rgba(255,212,212,1.00) 1.59%,rgba(255,251,251,1.00) 1.59%,rgba(252,248,248,1.00) 1.59%,rgba(255,251,251,1.00) 2.40%,rgba(113,60,60,1.00) 2.40%,rgba(112,59,59,1.00) 2.40%,rgba(255,0,0,1.00) 9.92%,rgba(255,0,0,1.00) 16.63%,rgba(146,146,146,1.00) 29.07%,rgba(1,0,0,1.00) 29.07%,rgba(255,255,255,1.00) 46.66%,rgba(0,0,0,1.00) 46.66%,rgba(43,43,43,1.00) 48.60%,rgba(215,215,215,1.00) 48.60%,rgba(43,43,43,1.00) 65.82%,rgba(255,255,255,1.00) 68.34%,rgba(127,127,127,1.00) 89.90%,rgba(138,138,138,1.00) 93.06%,rgba(146,146,146,1.00) 100%);
 	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,238,238,1.00) 0%,rgba(255,220,220,1.00) 0%,rgba(255,212,212,1.00) 1.56%,rgba(255,212,212,1.00) 1.59%,rgba(255,251,251,1.00) 1.59%,rgba(252,248,248,1.00) 1.59%,rgba(255,251,251,1.00) 2.40%,rgba(113,60,60,1.00) 2.40%,rgba(112,59,59,1.00) 2.40%,rgba(255,0,0,1.00) 9.92%,rgba(255,0,0,1.00) 16.63%,rgba(146,146,146,1.00) 29.07%,rgba(1,0,0,1.00) 29.07%,rgba(255,255,255,1.00) 46.66%,rgba(0,0,0,1.00) 46.66%,rgba(43,43,43,1.00) 48.60%,rgba(215,215,215,1.00) 48.60%,rgba(43,43,43,1.00) 65.82%,rgba(255,255,255,1.00) 68.34%,rgba(127,127,127,1.00) 89.90%,rgba(138,138,138,1.00) 93.06%,rgba(146,146,146,1.00) 100%);
 	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,238,238,1.00) 0%,rgba(255,220,220,1.00) 0%,rgba(255,212,212,1.00) 1.56%,rgba(255,212,212,1.00) 1.59%,rgba(255,251,251,1.00) 1.59%,rgba(252,248,248,1.00) 1.59%,rgba(255,251,251,1.00) 2.40%,rgba(113,60,60,1.00) 2.40%,rgba(112,59,59,1.00) 2.40%,rgba(255,0,0,1.00) 9.92%,rgba(255,0,0,1.00) 16.63%,rgba(146,146,146,1.00) 29.07%,rgba(1,0,0,1.00) 29.07%,rgba(255,255,255,1.00) 46.66%,rgba(0,0,0,1.00) 46.66%,rgba(43,43,43,1.00) 48.60%,rgba(215,215,215,1.00) 48.60%,rgba(43,43,43,1.00) 65.82%,rgba(255,255,255,1.00) 68.34%,rgba(127,127,127,1.00) 89.90%,rgba(138,138,138,1.00) 93.06%,rgba(146,146,146,1.00) 100%);
-}
-  
-#dubois-column-color {
-	background-image: -webkit-linear-gradient(270deg,rgba(143,143,143,1.00) 0%,rgba(146,146,146,1.00) 0%);
-	background-image: -moz-linear-gradient(270deg,rgba(143,143,143,1.00) 0%,rgba(146,146,146,1.00) 0%);
-	background-image: -o-linear-gradient(270deg,rgba(143,143,143,1.00) 0%,rgba(146,146,146,1.00) 0%);
-	background-image: linear-gradient(180deg,rgba(143,143,143,1.00) 0%,rgba(146,146,146,1.00) 0%);
 }
 
 #bug_burger_script {
@@ -145,4 +134,10 @@
     color: #242FDF;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
     font-weight: bold;
+}
+.roy-background-color {
+	background-color: #929292;
+}
+.roy-background-color2 {
+	background-color: #929292;
 }
