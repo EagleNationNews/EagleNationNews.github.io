@@ -180,6 +180,13 @@
     font-weight: bold;
 }
 
+.Khanh-Background-Blue {
+	background-color: #0040FF;
+}
+#Khanh-White-Text {
+	color: #FFFFFF;
+
+
 
 #tyson-text {
 }
@@ -225,4 +232,5 @@
 }
 #ryan_by_line {
 	color: #1500FF;
+
 }
