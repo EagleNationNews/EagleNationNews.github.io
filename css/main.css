@@ -146,3 +146,9 @@
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
     font-weight: bold;
 }
+.Khanh-Background-Blue {
+	background-color: #0040FF;
+}
+#Khanh-White-Text {
+	color: #FFFFFF;
+}
