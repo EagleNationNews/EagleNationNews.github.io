@@ -73,9 +73,32 @@
 	color: #FF0004;
 }
 
-#tyson-background {
+#tyson-text {
 	border-color: #0032FF;
-	font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-image: repeating-radial-gradient(#ff0000 0%, #0000ff 100%);
+	color:rgba(255,255,255,1.00);
+	
+}
+
+#tyson-background {
+	background-color:rgba(0,35,255,1.00);
+	color:rgba(255,0,4,1.00);
+}
+
+#tyson-top-fill {
+	background-image: linear-gradient(to bottom, #ff0000 0%, #0000ff 100%)
+}
+
+#tyson-bottom-fill {
+	background-image: linear-gradient(to top, #0000ff 0%, #ff0000 100%)
+}
+
+#tyson-side-fill-right {
+	background-image: linear-gradient(to top right, #ff0000 0%, #0000ff 100%)
+}
+#tyson-side-fill-left {
+	background-image: linear-gradient(to top left, #ff0000 0%, #0000ff 100%)
 }
 
 #bass-brexit-title {
@@ -157,6 +180,27 @@
     font-weight: bold;
 }
 
+
+#tyson-text {
+}
+#tyson-background {
+}
+#tyson-background {
+}
+#tyson-background {
+}
+#tyson-background {
+}
+#tyson-background {
+}
+#tyson-background {
+}
+#tyson-background {
+}
+#tsyon-side-fill-left {
+}
+#tyson-text {
+
 #jonesLackofteacherstitle {
 	color: #FF0004;
 }
@@ -168,6 +212,7 @@
 	background-color: #9BCCEC;
 }
 #jonesLackofteacherstitle {
+
 
 #ryan-body_background {
 	background-color: #000000;
