@@ -7674,9 +7674,17 @@ button.bg-dark:focus {
   padding: 3rem !important;
 }
 
+
 .pt-5,
 .py-5 {
   padding-top: 3rem !important;
+
+#wells-talos {
+	background-image: -webkit-linear-gradient(270deg,rgba(250,250,250,1.00) 0%,rgba(0,83,253,1.00) 58.31%);
+	background-image: -moz-linear-gradient(270deg,rgba(250,250,250,1.00) 0%,rgba(0,83,253,1.00) 58.31%);
+	background-image: -o-linear-gradient(270deg,rgba(250,250,250,1.00) 0%,rgba(0,83,253,1.00) 58.31%);
+	background-image: linear-gradient(180deg,rgba(250,250,250,1.00) 0%,rgba(0,83,253,1.00) 58.31%);
+
 }
 
 .pr-5,
@@ -8722,8 +8730,16 @@ button.bg-dark:focus {
   text-align: justify !important;
 }
 
+
 .text-nowrap {
   white-space: nowrap !important;
+
+#tyson-text {
+	border-color: #0032FF;
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-image: repeating-radial-gradient(#ff0000 0%, #0000ff 100%);
+	color:rgba(255,255,255,1.00);	
+
 }
 
 .text-truncate {
@@ -8744,6 +8760,7 @@ button.bg-dark:focus {
   text-align: center !important;
 }
 
+
 @media (min-width: 576px) {
   .text-sm-left {
     text-align: left !important;
@@ -8754,6 +8771,10 @@ button.bg-dark:focus {
   .text-sm-center {
     text-align: center !important;
   }
+
+#tyson-side-fill-left {
+	background-image: linear-gradient(to top left, #ff0000 0%, #0000ff 100%)
+
 }
 
 @media (min-width: 768px) {
@@ -8828,21 +8849,42 @@ button.bg-dark:focus {
   color: #007bff !important;
 }
 
+
 a.text-primary:hover, a.text-primary:focus {
   color: #0062cc !important;
 }
+
+#conner_script_border {
+	background-color: #F9F9F9;
+	border: medium solid #FF0004;
+}
+
+.roy-background-color {
+	background-color: #929292;
+}
+
+.roy-background-color2 {
+	background-color: #929292;
+}
+
 
 .text-secondary {
   color: #6c757d !important;
 }
 
+
 a.text-secondary:hover, a.text-secondary:focus {
   color: #545b62 !important;
+
+#Khanh-White-Text {
+	color: #FFFFFF;
+
 }
 
 .text-success {
   color: #28a745 !important;
 }
+
 
 a.text-success:hover, a.text-success:focus {
   color: #1e7e34 !important;
@@ -8876,20 +8918,57 @@ a.text-danger:hover, a.text-danger:focus {
   color: #f8f9fa !important;
 }
 
+#tyson-background {
+}
+
+#tyson-background {
+}
+
+#tyson-background {
+}
+
+#tyson-background {
+}
+
+#tyson-background {
+}
+
+#tyson-background {
+}
+
+#tyson-background {
+}
+
+#tsyon-side-fill-left {
+}
+
+#tyson-text {
+}
+
+
 a.text-light:hover, a.text-light:focus {
   color: #dae0e5 !important;
 }
 
+
 .text-dark {
   color: #343a40 !important;
+
+#JonesLOTscript {
+	text-align: left;
+
 }
 
 a.text-dark:hover, a.text-dark:focus {
   color: #1d2124 !important;
 }
 
+
 .text-muted {
   color: #6c757d !important;
+
+#jonesLackofteacherstitle {
+
 }
 
 .text-hide {
@@ -8899,6 +8978,7 @@ a.text-dark:hover, a.text-dark:focus {
   background-color: transparent;
   border: 0;
 }
+
 
 .visible {
   visibility: visible !important;
@@ -8972,5 +9052,17 @@ a.text-dark:hover, a.text-dark:focus {
   .table-bordered td {
     border: 1px solid #ddd !important;
   }
+
+#ryan_text_color {
+	color: #FF0004;
+}
+
+#ryan_sources {
+	color: #FF0004;
+}
+
+#ryan_by_line {
+	color: #1500FF;
+
 }
 /*# sourceMappingURL=bootstrap.css.map */
