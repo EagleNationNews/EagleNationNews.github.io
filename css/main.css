@@ -142,4 +142,7 @@
     color: #242FDF;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
     font-weight: bold;
+}#conner_script_border {
+	background-color: #F9F9F9;
+	border: medium solid #FF0004;
 }
