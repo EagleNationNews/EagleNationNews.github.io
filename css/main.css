@@ -146,3 +146,15 @@
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
     font-weight: bold;
 }
+#ryan-body_background {
+	background-color: #000000;
+}
+#ryan_text_color {
+	color: #FF0004;
+}
+#ryan_sources {
+	color: #FF0004;
+}
+#ryan_by_line {
+	color: #1500FF;
+}
