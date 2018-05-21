@@ -106,8 +106,6 @@
 	background-color: #000000;
 }
   
-
-
 #dubois-orange-title {
 	color: #FF0000;
 	text-shadow: 0px 0px 7px #FAE999;
@@ -158,6 +156,7 @@
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
     font-weight: bold;
 }
+
 #jonesLackofteacherstitle {
 	color: #FF0004;
 }
@@ -169,4 +168,16 @@
 	background-color: #9BCCEC;
 }
 #jonesLackofteacherstitle {
+
+#ryan-body_background {
+	background-color: #000000;
+}
+#ryan_text_color {
+	color: #FF0004;
+}
+#ryan_sources {
+	color: #FF0004;
+}
+#ryan_by_line {
+	color: #1500FF;
 }
